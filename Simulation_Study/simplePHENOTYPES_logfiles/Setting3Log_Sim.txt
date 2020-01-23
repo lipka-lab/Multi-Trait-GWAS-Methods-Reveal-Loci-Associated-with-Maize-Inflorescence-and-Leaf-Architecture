@@ -1,0 +1,42 @@
+Simulation of a Pleiotropic Genetic Architecture with Additive Effects
+
+SIMULATION PARAMETERS: 
+
+Number of traits: 3
+Number of additive QTNs: 3
+Replicating set of QTNs every simulation (vary_QTN):  TRUE
+Population Heritability:
+     Trait_1 Trait_2 Trait_3
+[1,]     0.9     0.5     0.2
+
+Additive genetic effects:
+$Trait_1
+[1] 0.900 0.810 0.729
+
+$Trait_2
+[1] 0.500 0.250 0.125
+
+$Trait_3
+[1] 0.200 0.040 0.008
+
+
+Output file format: 'gemma'
+
+Plink bed files saved at: /Users/brice6/Box/brians_paper/SimulatedPheno2.0/Setting_3 
+
+
+DIAGNOSTICS:
+
+
+Sample cor 
+          Trait_1   Trait_2   Trait_3
+Trait_1 1.0000000 0.9222677 0.7678710
+Trait_2 0.9222677 1.0000000 0.9512532
+Trait_3 0.7678710 0.9512532 1.0000000
+
+Sample heritability (Average of 100  replications): 
+       Trait_1   Trait_2  Trait_3
+[1,] 0.9019541 0.4992578 0.200918
+
+
+Results are saved at: /Users/brice6/Box/brians_paper/SimulatedPheno2.0/Setting_3
