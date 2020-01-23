@@ -1,0 +1,72 @@
+##
+## GEMMA Version    = 0.98.1 (2018-12-10)
+## Build profile    = 
+## GCC version      = 7.4.0
+## GSL Version      = 2.4
+## Eigen Version    = 3.3.7
+## OpenBlas         = OpenBLAS 0.2.20  - NO_LAPACKE DYNAMIC_ARCH NO_AFFINITY Haswell
+##   arch           = Haswell
+##   threads        = 4
+##   parallel type  = threaded
+##
+## Command Line Input = /home/samuelf/gemma -bfile all -lmm 2 -n 1 2 3 -c PC0.txt -k kin_GAPIT.txt -o pheno 
+##
+## Date = Tue Dec 31 18:10:58 2019
+##
+## Summary Statistics:
+## number of total individuals = 281
+## number of analyzed individuals = 281
+## number of covariates = 3
+## number of phenotypes = 3
+## number of total SNPs/var = 327056
+## number of analyzed SNPs/var = 327052
+## REMLE log-likelihood in the null model = -741.678
+## MLE log-likelihood in the null model = -743.813
+## REMLE estimate for Vg in the null model: 
+0.0123742
+0.00285796	0.167681
+0.0215935	0.422857	3.70251
+## se(Vg): 
+0.0015649
+0.00487574	0.0290684
+0.0214618	0.0946379	0.580962
+## REMLE estimate for Ve in the null model: 
+0.0012767
+0.00565829	0.0845634
+0.00189067	-0.0359043	2.0058
+## se(Ve): 
+0.00116579
+0.00466467	0.0329597
+0.0189929	0.0998006	0.639832
+## MLE estimate for Vg in the null model: 
+0.0128689	0.0038866	0.0220029
+0.0038866	0.170699	0.425452
+0.0220029	0.425452	3.73081
+## se(Vg): 
+0.00170282
+0.00508776	0.0287161
+0.0212556	0.0937846	0.57723
+## MLE estimate for Ve in the null model: 
+0.000685553	0.00425778	0.0015542
+0.00425778	0.0776693	-0.0422614
+0.0015542	-0.0422614	1.90337
+## se(Ve): 
+0.00113765
+0.00462469	0.0313611
+0.0171074	0.09564	0.620373
+## estimate for B (d by c) in the null model (columns correspond to the covariates provided in the file): 
+5.25865	-0.000204057	0.000276717
+-4.60386	0.000902933	0.00427761
+24.1166	0.021711	-0.00488329
+## se(B): 
+0.153756	0.000751179	0.000304752
+0.637743	0.00320399	0.00128908
+3.02444	0.015225	0.00612214
+##
+## Computation Time:
+## total computation time = 12.6013 min 
+## computation time break down: 
+##      time on eigen-decomposition = 0.00078125 min 
+##      time on calculating UtX = 0.0351562 min 
+##      time on optimization = 12.356 min 
+##
