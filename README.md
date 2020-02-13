@@ -4,7 +4,8 @@ Multi-Trait GWAS Methods Reveal Loci Associated with Maize Inflorescence and Lea
 
 Folder: BLUPS
   "BLUP Model Trait Pipeline Summaries.csv" -> Full model trait details 
-  "GLMMER_BLUPs.R" -> R script for pipeline to evalute and take raw public data avalible at panzea.org to BLUPS
+  
+ "GLMMER_BLUPs.R" -> R script for pipeline to evalute and take raw public data avalible at panzea.org to BLUPS
   "PanzeaDataMaizeBLUPS.csv" -> The resulting trait BLUPs from GLMMER_BLUPs.R
   "Reference GBS taxanames.csv" -> Taxa name reference file for GBS taxa names
   "trait_names.csv" -> Trait name csv file required for GLMMER_BLUPs.R
