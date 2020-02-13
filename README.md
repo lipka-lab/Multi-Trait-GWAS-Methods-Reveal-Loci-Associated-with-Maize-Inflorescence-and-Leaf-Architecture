@@ -1,5 +1,6 @@
-# Multi-Trait-GWAS-Methods-Reveal-Loci-Associated-with-Maize-Inflorescence-and-Leaf-Architecture
-GWAS Results for Multi-Trait GWAS Methods Reveal Loci Associated with Maize Inflorescence and Leaf Architecture
+# Multi-Trait GWAS Methods Reveal Loci Associated with Maize Inflorescence and Leaf Architecture
+This github contains the files and scripts as well as additional results for the manuscript:
+Multi-Trait GWAS Methods Reveal Loci Associated with Maize Inflorescence and Leaf Architecture
 
 Folder: BLUPS
   "BLUP Model Trait Pipeline Summaries.csv" -> Full model trait details 
@@ -10,7 +11,7 @@ Folder: BLUPS
 
 Folder: Simulation_Study
   "simplePHENOTYPES_logfiles" -> Folder containing log files from simple phenotypes
-  "Detriming False Positive rate of Simulation.R" -> R script for determining false and true postive for multiple GAPIT GWAS output files, require simplePHENOTYPE output
+  "Detriming False Positive rate of Simulation.R" -> R script for determining false and true postive for multiple GAPIT GWAS  output files, requires simplePHENOTYPE output
   "Function to detrimine false and true postive.R" -> Function used in "Detriming False Positive rate of Simulation.R" and "getting false postive rate for gemma output.R"
   "GAPIT.Kin.VanRadenEntireGennome55KSNPFILTEREDIMPUTED.csv" -> A VanRaden Kinship matrix using the all ten chromosomes from the 55k legacy SNP chip data from panzea.org
   "LOCOVanRadenKinship55kLinkImputeFiltered.Rdata" -> 10 VanRaden Kinship matrix from the 55k legacy SNP chip data from panzea.org, where each kinship corresponds to a single chromosome.
