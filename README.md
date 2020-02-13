@@ -1,6 +1,6 @@
-# Multi-Trait GWAS Methods Reveal Loci Associated with Maize Inflorescence and Leaf Architecture
+# Multi-Trait Genome-wide Association Studies Methods Reveal Loci Associated with Maize Inflorescence and Leaf Architecture
 This github contains the files and scripts as well as additional results for the manuscript:
-Multi-Trait GWAS Methods Reveal Loci Associated with Maize Inflorescence and Leaf Architecture
+Multi-Trait Genome-wide Association Studies Methods Reveal Loci Associated with Maize Inflorescence and Leaf Architecture
 
 Folder: BLUPS
   "BLUP Model Trait Pipeline Summaries.csv" -> Full model trait details 
