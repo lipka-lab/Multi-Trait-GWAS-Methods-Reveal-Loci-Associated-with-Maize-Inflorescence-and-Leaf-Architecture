@@ -34,6 +34,8 @@ Folder: Simulation_Study
   
   "running_gwas.R" -> R script for running GAPIT for simplePHENOTYPE output 
   
+
+
 Files listed as GAPIT.MLM... correspond to the MLM GWAS model results from GAPIT for each trait BLUP and each PC
 
 "pheno.assoc.txt.zip" -> Multivariate MLM GWAS results from GEMMA
