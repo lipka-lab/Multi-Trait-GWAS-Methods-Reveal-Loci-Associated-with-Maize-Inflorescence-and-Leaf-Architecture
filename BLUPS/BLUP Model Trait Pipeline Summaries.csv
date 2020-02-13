@@ -1,4 +1,4 @@
-trait,number of environments,p  (n = 300),Count,HistogramShape,Link Function,Model Notes,Env Dropped,BLUPS S.W. p (n=300),BLUPS histogram,Tranform BLUPs,BLUPS in 282 (n),BLUPs Hertibility,QTL 55K,QTL from LOCO GWAS GBS data,QTL Published,QTN Published,Wallace et al
+trait,number of environments,p  (n = 300),Count,HistogramShape,Link Function,Model Notes,Env Dropped,BLUPS S.W. p (n=300),BLUPS histogram,Tranform BLUPs,BLUPS in 282 (n),BLUPs Hertibility,QTL 55K,QTL from LOCO GWAS GBS data,QTL Published,QTN Published
 GDDDaystoSilk,9,5.84E-26,,Bell,gaussian,"optimizer =""Nelder_Mead""",,0.401495359,Bell,No,,,,1,39,,
 GDDDaystoTassel,10,4.92E-27,,Bell,gaussian,"optimizer =""Nelder_Mead""",,0.269387972,Bell,No,,,,1,36,,
 TasselLength,8,1.33E-24,,Bell,gaussian,"optimizer =""Nelder_Mead""",,0.001682677,Bell,No,,,,,,,
